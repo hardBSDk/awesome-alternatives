@@ -26,6 +26,44 @@ This is the template used to add new items, you can easily copy and modify it.
 |  |  |  |
 ```
 
+- [Operating Systems](#operating-systems)
+- [Web Browsers](#web-browsers)
+- [App Stores](#app-stores)
+- [Video Platform](#video-platform)
+- [Streaming](#streaming)
+- [Messaging](#messaging)
+- [Social Networks](#social-networks)
+- [VPNs](#vpns)
+- [Disk Encryption](#disk-encryption)
+- [Search Engines](#search-engines)
+- [Internet Protocols](#internet-protocols)
+- [Source Code Hosting](#source-code-hosting)
+- [Anti-Malware](#anti-malware)
+- [Office](#office)
+- [Image Manipulation](#image-manipulation)
+- [Video Editors](#video-editors)
+- [Media Players](#media-players)
+- [Sound Production](#sound-production)
+- [Torrent](#torrent)
+- [File Sharing](#file-sharing)
+- [Game Engines](#game-engines)
+- [Finance](#finance)
+- [DJ Mixing](#dj-mixing)
+- [Voice/Video Chats](#voicevideo-chats)
+- [Android Keyboard](#android-keyboard)
+- [File Compression](#file-compression)
+- [File Manager](#file-manager)
+- [Personal Assistant](#personal-assistant)
+- [Graphics API](#graphics-api)
+- [Text Editor](#text-editor)
+- [IDE](#ide)
+- [Screen Capture](#screen-capture)
+- [Screen Recording](#screen-recording)
+- [Map Navigation](#map-navigation)
+- [Image Viewer](#image-viewer)
+- [Emulators](#emulators)
+- [Games](#games)
+
 ### Operating Systems
 
 | **OS** | **Alternative** | **Description** |
@@ -121,7 +159,7 @@ This is the template used to add new items, you can easily copy and modify it.
 |-------------|-----------------|-----------------|
 | Adobe Photoshop, Adobe Illustrator | [GIMP](https://www.gimp.org/), [Krita](https://krita.org/en/), [Inkscape](https://inkscape.org/) | The most used proprietary image manipulation programs |
 
-### Video Manipulation
+### Video Editors
 
 | **Program** | **Alternative** | **Description** |
 |-------------|-----------------|-----------------|
