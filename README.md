@@ -6,6 +6,8 @@ This is the biggest list of alternatives for the most used programs, web service
 
 For more alternatives see the [GNOME](https://apps.gnome.org/) and [KDE](https://apps.kde.org/) applications suite or the [Flathub](https://flathub.org/) and [Snapcraft](https://snapcraft.io/) stores (or install a Linux distribution with [GNOME](https://www.gnome.org/getting-gnome) or [KDE Plasma](https://kde.org/distributions) included)
 
+**If you like this list consider to give a star on the repository, it will help more people to replace non-free programs or discover better programs**
+
 ## Approval Criteria
 
 - The program or game must be usable
