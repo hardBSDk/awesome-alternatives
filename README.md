@@ -26,6 +26,8 @@ This is the template used to add new items, you can easily copy and modify it.
 |  |  |  |
 ```
 
+## Index
+
 - [Operating Systems](#operating-systems)
 - [Web Browsers](#web-browsers)
 - [App Stores](#app-stores)
