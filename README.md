@@ -45,6 +45,7 @@ This is the template used to add new items, you can easily copy and modify it.
 - [Anti-Malware](#anti-malware)
 - [Office](#office)
 - [Image Manipulation](#image-manipulation)
+- [Animation](#animation)
 - [Video Editors](#video-editors)
 - [Media Players](#media-players)
 - [Sound Production](#sound-production)
@@ -76,6 +77,8 @@ This is the template used to add new items, you can easily copy and modify it.
 | Android (AOSP, OEM versions and custom ROMs), iOS | [postmarketOS](https://postmarketos.org/), [UBports](https://ubports.com/) | The most used mobile operating systems. |
 | Linux (also known as GNU/Linux) | [GhostBSD](https://www.ghostbsd.org/), [FreeBSD](https://www.freebsd.org/), [NetBSD](https://www.netbsd.org/), [OpenBSD](https://www.openbsd.org/), [ReactOS](https://reactos.org/), [Haiku](https://www.haiku-os.org/), [Android-x86](https://www.android-x86.org/) | The most used operating system of the world, except on desktops. Created by Linus Torvalds and developed by the Linux developers. |
 
+- [Back to top](#index)
+
 ### Web Browsers
 
 | **Program** | **Alternative** | **Description** |
@@ -83,17 +86,23 @@ This is the template used to add new items, you can easily copy and modify it.
 | Google Chrome, Opera, Microsoft Edge, Safari | [Chromium](https://chromium.org), [ungoogled-chromium](https://ungoogled-software.github.io/), [Bromite](https://www.bromite.org/), [Firefox](https://www.mozilla.org/en-US/firefox/new/), [Zen Browser](https://zen-browser.app/) | The most used web browsers, some are proprietary and others are open-source with binary blobs |
 | HTTP Browsers | [Lagrange](https://gmi.skyjake.fi/lagrange/) | The most used text protocol on the Internet |
 
+- [Back to top](#index)
+
 ### App Stores
 
 | **App Store** | **Alternative** | **Description** |
 |---------------|-----------------|-----------------|
 | Google Play Store | [F-Droid](https://f-droid.org) | The most used proprietary app store on Android |
 
+- [Back to top](#index)
+
 ### Video Platform
 
 | **Service** | **Alternative** | **Description** |
 |-------------|-----------------|-----------------|
 | YouTube, VK, Rumble, Bitchute | [PeerTube](https://joinpeertube.org/) | The most used proprietary video platforms |
+
+- [Back to top](#index)
 
 ### Streaming
 
@@ -102,11 +111,15 @@ This is the template used to add new items, you can easily copy and modify it.
 | Twitch, YouTube | [Owncast](https://owncast.online/) | The most used proprietary livestream platforms |
 | StreamYard | [VDO.Ninja](https://vdo.ninja/) | One of the most used YouTube streaming services |
 
+- [Back to top](#index)
+
 ### Messaging
 
 | **Service** | **Alternative** | **Description** |
 |-------------|-----------------|-----------------|
 | WhatsApp, Telegram, Discord | [Jami](https://jami.net/), [Matrix](https://matrix.org/), [XMPP](https://xmpp.org/), [Spacebar](https://spacebar.chat/), [Briar](https://briarproject.org/) | The most used proprietary messengers |
+
+- [Back to top](#index)
 
 ### Social Networks
 
@@ -114,11 +127,15 @@ This is the template used to add new items, you can easily copy and modify it.
 |-------------|-----------------|-----------------|
 | Facebook, Twitter | [Mastodon](https://joinmastodon.org/), [Nostr](https://nostr.com/) | The most used proprietary social networks |
 
+- [Back to top](#index)
+
 ### VPNs
 
 | **Service** | **Alternative** | **Description** |
 |-------------|-----------------|-----------------|
 | Nord VPN, Proton VPN | [Tor](https://www.torproject.org/), [I2P](https://geti2p.net/en/), [Lokinet](https://lokinet.org/) | The most used centralized VPNs |
+
+- [Back to top](#index)
 
 ### Disk Encryption
 
@@ -126,11 +143,15 @@ This is the template used to add new items, you can easily copy and modify it.
 |----------------|-----------------|-----------------|
 | BitLocker | [VeraCrypt](https://www.veracrypt.fr/en/Home.html), LUKS (Linux encryption) | The Microsoft Windows disk encryption technology |
 
+- [Back to top](#index)
+
 ### Search Engines
 
 | **Service** | **Alternative** | **Description** |
 |-------------|-----------------|-----------------|
 | Google, DuckDuckGo, Yahoo, Bing, Yandex | [Mojeek](https://www.mojeek.com/) | The most used proprietary search engines |
+
+- [Back to top](#index)
 
 ### Internet Protocols
 
@@ -138,17 +159,23 @@ This is the template used to add new items, you can easily copy and modify it.
 |--------------|-----------------|-----------------|
 | World Wide Web | [Gemini](https://geminiprotocol.net/), [Tor](https://www.torproject.org/), [Lokinet](https://lokinet.org/), [TON Sites](https://ton.tg/en/ton-sites) | The most used website protocol |
 
+- [Back to top](#index)
+
 ### Source Code Hosting
 
 | **Service** | **Alternative** | **Description** |
 |-------------|-----------------|-----------------|
 | GitHub | [Codeberg](https://codeberg.org/), [NotABug](https://notabug.org/), [GitLab](https://about.gitlab.com/), [Gitea](https://about.gitea.com/), [Radicle](https://radicle.xyz/) | The most used Git hosting service |
 
+- [Back to top](#index)
+
 ### Anti-Malware
 
 | **Program** | **Alternative** | **Description** |
 |-------------|-----------------|-----------------|
 | Norton, McAfee, AVG, Avast, Windows Defender, Malwarebytes | [ClamAV](https://www.clamav.net/) | The most used proprietary anti-malware programs |
+
+- [Back to top](#index)
 
 ### Office
 
@@ -157,11 +184,24 @@ This is the template used to add new items, you can easily copy and modify it.
 | Microsoft Office | [LibreOffice](https://www.libreoffice.org/) | The most used office suite |
 | Adobe Acrobat | [Scribus](https://www.scribus.net/), [Evince](https://apps.gnome.org/Evince/), [Okular](https://okular.kde.org/) | The most used proprietary PDF document viewer and editor |
 
+- [Back to top](#index)
+
 ### Image Manipulation
 
 | **Program** | **Alternative** | **Description** |
 |-------------|-----------------|-----------------|
 | Adobe Photoshop, Adobe Illustrator | [GIMP](https://www.gimp.org/), [Krita](https://krita.org/en/), [Inkscape](https://inkscape.org/) | The most used proprietary image manipulation programs |
+
+- [Back to top](#index)
+
+### Animation
+
+| **Program** | **Alternative** | **Description** |
+|-------------|-----------------|-----------------|
+| Adobe Animate | [Pencil2D](https://www.pencil2d.org/), [OpenToonz](https://opentoonz.github.io/e/) | The most used proprietary animation editor |
+| Adobe Flash Player | [Ruffle](https://ruffle.rs/) | The most used proprietary animation player of 2000s |
+
+- [Back to top](#index)
 
 ### Video Editors
 
@@ -169,11 +209,15 @@ This is the template used to add new items, you can easily copy and modify it.
 |-------------|-----------------|-----------------|
 | Sony Vegas, Adobe Premiere | [Kdenlive](https://kdenlive.org/), [OpenShot](https://www.openshot.org/), [Flowblade](https://jliljebl.github.io/flowblade/), [Shotcut](https://www.shotcut.org/), [Pitivi](http://www.pitivi.org/), [Blender](https://www.blender.org/) | The most used proprietary video editors |
 
+- [Back to top](#index)
+
 ### Media Players
 
 | **Program** | **Alternative** | **Description** |
 |-------------|-----------------|-----------------|
 | Windows Media Player | [VLC](https://www.videolan.org/vlc/), [Festival](https://festival.pm/), [Pragha](https://pragha-music-player.github.io/), [Quod Libet](https://quodlibet.readthedocs.io/), [Rhythmbox](https://gitlab.gnome.org/GNOME/rhythmbox), [Parole](https://docs.xfce.org/apps/parole/start), [Exaile](https://exaile.org/) | The default Windows media player |
+
+- [Back to top](#index)
 
 ### Sound Production
 
@@ -181,11 +225,15 @@ This is the template used to add new items, you can easily copy and modify it.
 |-------------|-----------------|-----------------|
 | FL Studio, Ableton Live, Reaper, Hammer | [LMMS](https://lmms.io/), [Ardour](https://ardour.org/) | The most used proprietary digital audio workstations |
 
+- [Back to top](#index)
+
 ### Torrent
 
 | **Program** | **Alternative** | **Description** |
 |-------------|-----------------|-----------------|
 | BitTorrent, uTorrent | [Transmission](https://transmissionbt.com/), [KTorrent](https://apps.kde.org/ktorrent/), [Deluge](https://deluge-torrent.org/), [WebTorrent](https://webtorrent.io) | The most used proprietary torrent clients |
+
+- [Back to top](#index)
 
 ### File Sharing
 
@@ -193,11 +241,15 @@ This is the template used to add new items, you can easily copy and modify it.
 |-------------|-----------------|-----------------|
 | Google Drive, MEGA, OneDrive, Dropbox | [Wormhole](https://wormhole.app/), [Winden](https://winden.app/), [Warp](https://apps.gnome.org/Warp/), [TrebleShot](https://trebleshot.monora.org/), [Rymdport](https://rymdport.github.io/), [Wormhole Android](https://gitlab.com/lukas-heiligenbrunner/wormhole) | The most used services for file sharing |
 
+- [Back to top](#index)
+
 ### Game Engines
 
 | **Engine** | **Alternative** | **Description** |
 |------------|-----------------|-----------------|
 | Unity, Unreal Engine, Game Maker | [Godot Engine](https://godotengine.org/), [GDevelop](https://gdevelop.io/), [Love2D](https://www.love2d.org/), [Pygame](https://www.pygame.org/docs/), [MonoGame](https://monogame.net/), [Piston](https://www.piston.rs/), [Fyrox](https://fyrox.rs/) | The most used proprietary game engines |
+
+- [Back to top](#index)
 
 ### Finance
 
@@ -205,11 +257,15 @@ This is the template used to add new items, you can easily copy and modify it.
 |-------------|-----------------|-----------------|
 | Banking | [Bitcoin](https://bitcoin.org), [Monero](https://monero.org) | The most used payment service |
 
+- [Back to top](#index)
+
 ### DJ Mixing
 
 | **Program** | **Alternative** | **Description** |
 |-------------|-----------------|-----------------|
 | VirtualDJ | [Mixxx](https://mixxx.org/) | Popular proprietary DJ mixing program |
+
+- [Back to top](#index)
 
 ### Voice/Video Chats
 
@@ -217,11 +273,15 @@ This is the template used to add new items, you can easily copy and modify it.
 |-------------|-----------------|-----------------|
 | Microsoft Teams, Skype, Zoom, Google Hangouts | [Jami](https://jami.net/), [Jitsi Meet](https://jitsi.org/jitsi-meet/), [VDO.Ninja](https://vdo.ninja/) | The most used proprietary voice/video chat programs |
 
+- [Back to top](#index)
+
 ### Android Keyboard
 
 | **Keyboard** | **Alternative** | **Description** |
 |--------------|-----------------|-----------------|
 | GBoard | [OpenBoard](https://github.com/openboard-team/openboard) | The proprietary Google keyboard |
+
+- [Back to top](#index)
 
 ### File Compression
 
@@ -229,11 +289,15 @@ This is the template used to add new items, you can easily copy and modify it.
 |-------------|-----------------|-----------------|
 | WinRAR | [7-Zip](https://www.7-zip.org/), [KDE Ark](https://apps.kde.org/ark/), [GNOME File Roller](https://gitlab.gnome.org/GNOME/file-roller), [Engrampa](https://wiki.mate-desktop.org/mate-desktop/applications/engrampa/) | A popular proprietary archive program |
 
+- [Back to top](#index)
+
 ### File Manager
 
 | **Program** | **Alternative** | **Description** |
 |-------------|-----------------|-----------------|
 | Windows Explorer | [KDE Dolphin](https://apps.kde.org/dolphin/), [GNOME Files](https://apps.gnome.org/Nautilus/), [Xfe](http://roland65.free.fr/xfe/), [Thunar](https://docs.xfce.org/xfce/thunar/start), [Caja](https://wiki.mate-desktop.org/mate-desktop/applications/caja/) | The Windows file manager |
+
+- [Back to top](#index)
 
 ### Personal Assistant
 
@@ -241,17 +305,23 @@ This is the template used to add new items, you can easily copy and modify it.
 |----------|-----------------|-----------------|
 | Google Assistant, Google Now | [Dicio](https://github.com/Stypox/dicio-android) | The most used personal assistant on Android |
 
+- [Back to top](#index)
+
 ### Graphics API
 
 | **API** | **Alternative** | **Description** |
 |---------|-----------------|-----------------|
 | Direct3D, Metal | [Vulkan](https://www.vulkan.org/), [OpenGL](https://www.opengl.org/) | The most used graphics APIs |
 
+- [Back to top](#index)
+
 ### Text Editor
 
 | **Game** | **Alternative** | **Description** |
 |----------|-----------------|-----------------|
 | Windows Notepad | [KWrite](https://apps.kde.org/kwrite/), [GNOME Text Editor](https://apps.gnome.org/TextEditor/), [Pluma](https://wiki.mate-desktop.org/mate-desktop/applications/pluma/), [Mousepad](https://docs.xfce.org/apps/mousepad/start) | The most used proprietary text editor |
+
+- [Back to top](#index)
 
 ### IDE
 
@@ -260,17 +330,23 @@ This is the template used to add new items, you can easily copy and modify it.
 | Visual Studio Code, Atom | [KDevelop](https://kdevelop.org/), [Apache NetBeans](https://netbeans.apache.org/front/main/index.html), [Kate](https://apps.kde.org/kate/), [Geany](https://www.geany.org/), [Graviton](https://graviton.netlify.app/), [Eclipse](https://eclipseide.org/), [Emacs](https://www.gnu.org/software/emacs/) | One of the most used IDEs |
 | Emacs, Vim | [Helix](https://helix-editor.com/) | The most used IDEs on Linux |
 
+- [Back to top](#index)
+
 ### Screen Capture
 
 | **Program** | **Alternative** | **Description** |
 |-------------|-----------------|-----------------|
 | Windows Screenshot? | [Flameshot](https://flameshot.org/), [KDE Spectacle](https://apps.kde.org/spectacle/), [GNOME Screenshot](https://gitlab.gnome.org/GNOME/gnome-screenshot) | The most used screenshot program |
 
+- [Back to top](#index)
+
 ### Screen Recording
 
 | **Program** | **Alternative** | **Description** |
 |-------------|-----------------|-----------------|
 | Bandicamp, Fraps | [OBS](https://obsproject.com/) | One of the most used proprietary screen recorders |
+
+- [Back to top](#index)
 
 ### Map Navigation
 
@@ -279,11 +355,15 @@ This is the template used to add new items, you can easily copy and modify it.
 | Google Maps | [OpenStreetMap](https://www.openstreetmap.org/) | The most used proprietary map navigation service |
 | Google Earth | [KDE Marble](https://marble.kde.org/) | The most used proprietary 3D map navigation |
 
+- [Back to top](#index)
+
 ### Image Viewer
 
 | **Program** | **Alternative** | **Description** |
 |-------------|-----------------|-----------------|
 | Windows Image Viewer | [Loupe](https://apps.gnome.org/Loupe/), [Gwenview](https://apps.kde.org/gwenview/), [Ristretto](https://docs.xfce.org/apps/ristretto/start), [Eye of MATE](https://wiki.mate-desktop.org/mate-desktop/applications/eom/) | The most used proprietary image viewer |
+
+- [Back to top](#index)
 
 ### Emulators
 
@@ -291,6 +371,8 @@ This is the template used to add new items, you can easily copy and modify it.
 |--------------|-----------------|-----------------|
 | ePSXe, pSX | [DuckStation](https://github.com/stenzek/duckstation), [PCSX-ReARMed](https://github.com/notaz/pcsx_rearmed) | Popular freeware PS1 emulators |
 | PCSX2 | [Play!](https://purei.org/) | The most popular and advanced PS2 emulator |
+
+- [Back to top](#index)
 
 ### Games
 
@@ -301,5 +383,8 @@ This is the template used to add new items, you can easily copy and modify it.
 | Half-Life | [Xash3D FWGS](https://github.com/FWGS/xash3d-fwgs) | The most popular proprietary FPS game |
 | Counter Strike 1.6 | [FreeCS](https://github.com/eukara/freecs) | One of the most popular proprietary FPS games |
 | VRChat | [Overte](https://overte.org/) | The most popular proprietary virtual reality game |
+| Guitar Hero | [YARG](https://yarg.in/), [Performous](http://performous.org/)  | The most popular proprietary guitar game |
+| Just Dance | [Performous](http://performous.org/), [StepMania](https://www.stepmania.com/) | the most popular proprietary dance game |
 
+- [Back to top](#index)
 
