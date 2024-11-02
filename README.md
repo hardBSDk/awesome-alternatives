@@ -4,7 +4,7 @@ This is the biggest list of alternatives for the most used programs, web service
 
 (Most of the programs and games below can be found in most Linux distributions or in the Flathub and Snapcraft stores)
 
-For more alternatives see the [GNOME](https://apps.gnome.org/) and [KDE](https://apps.kde.org/) applications suite or the [Flathub](https://flathub.org/) and [Snapcraft](https://snapcraft.io/) stores (or install a Linux distribution with [GNOME](https://www.gnome.org/getting-gnome) or [KDE Plasma](https://kde.org/distributions) included)
+For more alternatives see the [AlternativeTo](https://alternativeto.net/) website and the [GNOME](https://apps.gnome.org/) and [KDE](https://apps.kde.org/) applications suite, or the [Flathub](https://flathub.org/) and [Snapcraft](https://snapcraft.io/) stores (or install a Linux distribution with [GNOME](https://www.gnome.org/getting-gnome) or [KDE Plasma](https://kde.org/distributions) included)
 
 **If you like this list consider to give a star on the repository, it will help more people to replace non-free programs or discover better programs**
 
@@ -31,16 +31,21 @@ This is the template used to add new items, you can easily copy and modify it.
 ## Index
 
 - [Operating Systems](#operating-systems)
+- [System Administration](#system-administration)
+- [System Customization](#system-customization)
 - [Web Browsers](#web-browsers)
 - [App Stores](#app-stores)
 - [Video Platform](#video-platform)
 - [Streaming](#streaming)
 - [Messaging](#messaging)
 - [Social Networks](#social-networks)
+- [LAN](#lan)
 - [VPNs](#vpns)
 - [Disk Encryption](#disk-encryption)
 - [Search Engines](#search-engines)
+- [Translation](#translation)
 - [Internet Protocols](#internet-protocols)
+- [Websites](#websites)
 - [Source Code Hosting](#source-code-hosting)
 - [Anti-Malware](#anti-malware)
 - [Office](#office)
@@ -48,6 +53,7 @@ This is the template used to add new items, you can easily copy and modify it.
 - [Animation](#animation)
 - [Video Editors](#video-editors)
 - [Media Players](#media-players)
+- [Music](#music)
 - [Sound Production](#sound-production)
 - [Torrent](#torrent)
 - [File Sharing](#file-sharing)
@@ -64,8 +70,12 @@ This is the template used to add new items, you can easily copy and modify it.
 - [IDE](#ide)
 - [Screen Capture](#screen-capture)
 - [Screen Recording](#screen-recording)
+- [Screen Sharing](#screen-sharing)
+- [Terminal Remote Access](#terminal-remote-access)
 - [Map Navigation](#map-navigation)
 - [Image Viewer](#image-viewer)
+- [Debugging](#debugging)
+- [Wine](#wine)
 - [Emulators](#emulators)
 - [Games](#games)
 
@@ -76,6 +86,23 @@ This is the template used to add new items, you can easily copy and modify it.
 | Windows, MacOSX | [Ubuntu](https://ubuntu.com), [PopOS](https://pop.system76.com/), [Fedora](https://fedoraproject.org/), [antiX Linux](https://antixlinux.com/), [Void Linux](https://voidlinux.org/), [GhostBSD](https://www.ghostbsd.org/), [ReactOS](https://reactos.org/), [Haiku](https://www.haiku-os.org/), [Android-x86](https://www.android-x86.org/) | The most used proprietary operating systems on desktops. |
 | Android (AOSP, OEM versions and custom ROMs), iOS | [postmarketOS](https://postmarketos.org/), [UBports](https://ubports.com/) | The most used mobile operating systems. |
 | Linux (also known as GNU/Linux) | [GhostBSD](https://www.ghostbsd.org/), [FreeBSD](https://www.freebsd.org/), [NetBSD](https://www.netbsd.org/), [OpenBSD](https://www.openbsd.org/), [ReactOS](https://reactos.org/), [Haiku](https://www.haiku-os.org/), [Android-x86](https://www.android-x86.org/) | The most used operating system of the world, except on desktops. Created by Linus Torvalds and developed by the Linux developers. |
+
+- [Back to top](#index)
+
+### System Administration
+
+| **Task/Program** | **Alternative** | **Description** |
+|---------------|-----------------|-----------------|
+| Suspension/Hibernation | [Nyrna](https://nyrna.merritt.codes/) | Most common methods to enable the idle/sleep state of the computer |
+| Rufus | [Ventoy](https://www.ventoy.net/en/index.html) | The most used USB flasher program on Windows |
+
+- [Back to top](#index)
+
+### System Customization
+
+| **Program** | **Alternative** | **Description** |
+|---------------|-----------------|-----------------|
+| Wallpaper Engine | [Hidamari](https://github.com/jeffshee/hidamari) | The most used proprietary wallpaper customization tool |
 
 - [Back to top](#index)
 
@@ -129,11 +156,19 @@ This is the template used to add new items, you can easily copy and modify it.
 
 - [Back to top](#index)
 
+### LAN
+
+| **Program** | **Alternative** | **Description** |
+|-------------|-----------------|-----------------|
+| Hamachi | [ZeroTier](https://www.zerotier.com/) | A popular program to share your local network on the Internet |
+
+- [Back to top](#index)
+
 ### VPNs
 
 | **Service** | **Alternative** | **Description** |
 |-------------|-----------------|-----------------|
-| Nord VPN, Proton VPN | [Tor](https://www.torproject.org/), [I2P](https://geti2p.net/en/), [Lokinet](https://lokinet.org/) | The most used centralized VPNs |
+| Nord VPN, Proton VPN | [Carburetor](https://flathub.org/apps/io.frama.tractor.carburetor), [Tor](https://www.torproject.org/), [I2P](https://geti2p.net/en/), [Lokinet](https://lokinet.org/) | The most used centralized VPNs |
 
 - [Back to top](#index)
 
@@ -153,6 +188,14 @@ This is the template used to add new items, you can easily copy and modify it.
 
 - [Back to top](#index)
 
+### Translation
+
+| **Service** | **Alternative** | **Description** |
+|-------------|-----------------|-----------------|
+| Google Translate | [Argos Translate](https://www.argosopentech.com/) | The most used translation service |
+
+- [Back to top](#index)
+
 ### Internet Protocols
 
 | **Protocol** | **Alternative** | **Description** |
@@ -160,6 +203,15 @@ This is the template used to add new items, you can easily copy and modify it.
 | World Wide Web | [Gemini](https://geminiprotocol.net/), [Tor](https://www.torproject.org/), [Lokinet](https://lokinet.org/), [TON Sites](https://ton.tg/en/ton-sites) | The most used website protocol |
 
 - [Back to top](#index)
+
+### Websites
+
+| **Program** | **Alternative** | **Description** |
+|-------------|-----------------|-----------------|
+| Apache HTTP Server, nginx | [Static Web Server](https://static-web-server.net/) | The most used HTTP web servers |
+
+- [Back to top](#index)
+
 
 ### Source Code Hosting
 
@@ -191,6 +243,8 @@ This is the template used to add new items, you can easily copy and modify it.
 | **Program** | **Alternative** | **Description** |
 |-------------|-----------------|-----------------|
 | Adobe Photoshop, Adobe Illustrator | [GIMP](https://www.gimp.org/), [Krita](https://krita.org/en/), [Inkscape](https://inkscape.org/) | The most used proprietary image manipulation programs |
+| Canvas | [Sly](https://sly.kramo.page/) | A popular image editor for web browsers |
+| GIMP, Inkscape | [Graphite](https://graphite.rs/) | The most used image manipulation programs on Linux |
 
 - [Back to top](#index)
 
@@ -216,6 +270,14 @@ This is the template used to add new items, you can easily copy and modify it.
 | **Program** | **Alternative** | **Description** |
 |-------------|-----------------|-----------------|
 | Windows Media Player | [VLC](https://www.videolan.org/vlc/), [Festival](https://festival.pm/), [Pragha](https://pragha-music-player.github.io/), [Quod Libet](https://quodlibet.readthedocs.io/), [Rhythmbox](https://gitlab.gnome.org/GNOME/rhythmbox), [Parole](https://docs.xfce.org/apps/parole/start), [Exaile](https://exaile.org/) | The default Windows media player |
+
+- [Back to top](#index)
+
+### Music
+
+| **Program** | **Alternative** | **Description** |
+|-------------|-----------------|-----------------|
+| Shazam | [Mousai](https://github.com/SeaDve/Mousai) | The most used program for music recognition |
 
 - [Back to top](#index)
 
@@ -345,6 +407,23 @@ This is the template used to add new items, you can easily copy and modify it.
 | **Program** | **Alternative** | **Description** |
 |-------------|-----------------|-----------------|
 | Bandicamp, Fraps | [OBS](https://obsproject.com/) | One of the most used proprietary screen recorders |
+| NVIDIA Shadowplay | [GPU Screen Recorder](https://flathub.org/apps/com.dec05eba.gpu_screen_recorder) | A popular screen recording program that uses GPU for encoding |
+
+- [Back to top](#index)
+
+### Screen Sharing
+
+| **Program** | **Alternative** | **Description** |
+|-------------|-----------------|-----------------|
+| Team Viewer | [Sanzu](https://github.com/cea-sec/sanzu), [Remmina](https://remmina.org/) | The most popular proprietary screen sharing program |
+
+- [Back to top](#index)
+
+### Terminal Remote Access
+
+| **Program** | **Alternative** | **Description** |
+|-------------|-----------------|-----------------|
+| OpenSSH | [Mosh](https://mosh.org/), [sshx](https://sshx.io/) | The most used SSH client |
 
 - [Back to top](#index)
 
@@ -362,6 +441,22 @@ This is the template used to add new items, you can easily copy and modify it.
 | **Program** | **Alternative** | **Description** |
 |-------------|-----------------|-----------------|
 | Windows Image Viewer | [Loupe](https://apps.gnome.org/Loupe/), [Gwenview](https://apps.kde.org/gwenview/), [Ristretto](https://docs.xfce.org/apps/ristretto/start), [Eye of MATE](https://wiki.mate-desktop.org/mate-desktop/applications/eom/) | The most used proprietary image viewer |
+
+- [Back to top](#index)
+
+### Debugging
+
+| **Program** | **Alternative** | **Description** |
+|-------------|-----------------|-----------------|
+| GNU Debugger, rr-debugger | [pwatch](https://github.com/ri-char/pwatch) | The most used free and open-source debuggers |
+
+- [Back to top](#index)
+
+### Wine
+
+| **Program** | **Alternative** | **Description** |
+|-------------|-----------------|-----------------|
+| Bottles, Lutris | [brie](https://github.com/nikarh/brie) | The most used Wine launchers |
 
 - [Back to top](#index)
 
@@ -385,6 +480,8 @@ This is the template used to add new items, you can easily copy and modify it.
 | VRChat | [Overte](https://overte.org/) | The most popular proprietary virtual reality game |
 | Guitar Hero | [YARG](https://yarg.in/), [Performous](http://performous.org/)  | The most popular proprietary guitar game |
 | Just Dance | [Performous](http://performous.org/), [StepMania](https://www.stepmania.com/) | the most popular proprietary dance game |
+| Minecraft | [Minetest (Luanti now)](https://www.minetest.net/), [ClassiCube](https://www.classicube.net/) | The most popular proprietary voxel sandbox game |
+| Cube World | [Veloren](https://veloren.net/) | A popular abandoned proprietary voxel RPG game |
 
 - [Back to top](#index)
 
