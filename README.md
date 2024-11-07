@@ -8,6 +8,14 @@ For more alternatives see the [AlternativeTo](https://alternativeto.net/) websit
 
 **If you like this list consider to give a star on the repository, it will help more people to replace non-free programs or discover better programs**
 
+## What is the difference between alternative and replacement?
+
+A replacement aims to implement all features of some program or operating system, it can be on the same way or a different way.
+
+While an alternative is a program that can implement some features of some program, but in a different way and not all features.
+
+Thus keep this in mind to avoid direct comparisons (1:1).
+
 ## Approval Criteria
 
 - The program or game must be usable
@@ -25,13 +33,18 @@ While in free and open-source licenses the rights/terms of usage don't change.
 This is the template used to add new items, you can easily copy and modify it.
 
 ```
+| **Program** | **Alternative** | **Description** |
+|-------------|-----------------|-----------------|
 |  |  |  |
+
+- [Back to top](#index)
 ```
 
 ## Index
 
 - [Operating Systems](#operating-systems)
 - [System Administration](#system-administration)
+- [System Services](#system-services)
 - [System Customization](#system-customization)
 - [Web Browsers](#web-browsers)
 - [App Stores](#app-stores)
@@ -42,6 +55,7 @@ This is the template used to add new items, you can easily copy and modify it.
 - [LAN](#lan)
 - [VPNs](#vpns)
 - [Disk Encryption](#disk-encryption)
+- [Data Recovery](#data-recovery)
 - [Search Engines](#search-engines)
 - [Translation](#translation)
 - [Internet Protocols](#internet-protocols)
@@ -98,11 +112,19 @@ This is the template used to add new items, you can easily copy and modify it.
 
 - [Back to top](#index)
 
+### System Services
+
+| **Program** | **Alternative** | **Description** |
+|-------------|-----------------|-----------------|
+| Google Play Services | [microG](https://microg.org/) | The proprietary service that provides some system APIs to apps |
+
+- [Back to top](#index)
+
 ### System Customization
 
 | **Program** | **Alternative** | **Description** |
 |---------------|-----------------|-----------------|
-| Wallpaper Engine | [Hidamari](https://github.com/jeffshee/hidamari) | The most used proprietary wallpaper customization tool |
+| Wallpaper Engine | [Linux Wallpaper Engine](https://github.com/Almamu/linux-wallpaperengine), [Wallpaper Engine for KDE](https://github.com/catsout/wallpaper-engine-kde-plugin), [Hidamari](https://github.com/jeffshee/hidamari), [mpvpaper](https://github.com/GhostNaN/mpvpaper) | The most used proprietary wallpaper customization tool |
 
 - [Back to top](#index)
 
@@ -177,6 +199,14 @@ This is the template used to add new items, you can easily copy and modify it.
 | **Encryption** | **Alternative** | **Description** |
 |----------------|-----------------|-----------------|
 | BitLocker | [VeraCrypt](https://www.veracrypt.fr/en/Home.html), LUKS (Linux encryption) | The Microsoft Windows disk encryption technology |
+
+- [Back to top](#index)
+
+### Data Recovery
+
+| **Program** | **Alternative** | **Description** |
+|-------------|-----------------|-----------------|
+| Recuva | [TestDisk](https://www.cgsecurity.org/) | A popular proprietary data recovery program |
 
 - [Back to top](#index)
 
@@ -482,6 +512,7 @@ This is the template used to add new items, you can easily copy and modify it.
 | Just Dance | [Performous](http://performous.org/), [StepMania](https://www.stepmania.com/) | the most popular proprietary dance game |
 | Minecraft | [Minetest (Luanti now)](https://www.minetest.net/), [ClassiCube](https://www.classicube.net/) | The most popular proprietary voxel sandbox game |
 | Cube World | [Veloren](https://veloren.net/) | A popular abandoned proprietary voxel RPG game |
+| STALKER (All games) | [OpenXRay](https://github.com/OpenXRay) | A popular proprietary science-fiction FPS game |
 
 - [Back to top](#index)
 
