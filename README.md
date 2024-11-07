@@ -106,7 +106,7 @@ This is the template used to add new items, you can easily copy and modify it.
 ### System Administration
 
 | **Task/Program** | **Alternative** | **Description** |
-|---------------|-----------------|-----------------|
+|------------------|-----------------|-----------------|
 | Suspension/Hibernation | [Nyrna](https://nyrna.merritt.codes/) | Most common methods to enable the idle/sleep state of the computer |
 | Rufus | [Ventoy](https://www.ventoy.net/en/index.html) | The most used USB flasher program on Windows |
 
