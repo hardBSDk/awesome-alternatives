@@ -264,7 +264,7 @@ This is the template used to add new items, you can easily copy and modify it.
 | **Program** | **Alternative** | **Description** |
 |-------------|-----------------|-----------------|
 | Microsoft Office | [LibreOffice](https://www.libreoffice.org/) | The most used office suite |
-| Adobe Acrobat | [Scribus](https://www.scribus.net/), [Evince](https://apps.gnome.org/Evince/), [Okular](https://okular.kde.org/) | The most used proprietary PDF document viewer and editor |
+| Adobe Acrobat | [Scribus](https://www.scribus.net/), [Evince](https://apps.gnome.org/Evince/), [Okular](https://okular.kde.org/), [Slay PDF](https://slaypdf.com/) | The most used proprietary PDF document viewer and editor |
 
 - [Back to top](#index)
 
@@ -515,4 +515,3 @@ This is the template used to add new items, you can easily copy and modify it.
 | STALKER (All games) | [OpenXRay](https://github.com/OpenXRay) | A popular proprietary science-fiction FPS game |
 
 - [Back to top](#index)
-
