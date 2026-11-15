@@ -374,6 +374,7 @@ This is the template used to add new items, you can easily copy and modify it.
 | GBoard | [OpenBoard](https://github.com/openboard-team/openboard) | The proprietary Google keyboard |
 
 - [Back to top](#index)
+- [CleanSlate](https://github.com/devshield-tech/botox-android) - Remotely wipe your Android device if it is lost or stolen.
 
 ### File Compression
 
